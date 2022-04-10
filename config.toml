@@ -1,0 +1,101 @@
+baseURL = 'https://modellfrickler.art'
+metaDataFormat = "yaml"
+languageCode = 'en-us'
+title = 'Der Modellfrickler'
+theme = ['blist', 'hugo-shortcode-gallery']
+timeout = 60000
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = false
+
+[languages]
+[languages.en]
+contentDir = "content"   #English
+weight = 1
+languageName = "English"
+[languages.en.params]
+introTitle = "Der Modellfrickler"
+introSubtitle = "Trying to build things"
+introPhoto = "/title.jpg"
+# logo = "/blist-logo.png"
+
+[[languages.en.menu.main]]
+name = "Blog"
+url = "blog"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "About"
+url = "page/about/"
+weight = 2
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags"
+weight = 3
+
+[[languages.en.menu.main]]
+name = "Impressium"
+url = "page/impressum/"
+weight = 4
+
+[[languages.en.menu.main]]
+name = "Privacy"
+url = "page/privacy/"
+weight = 5
+
+# [languages.de]
+# contentDir = "content/de" #English
+# weight = 1
+# languageName = "Deutsch"
+# [languages.de.params]
+# introTitle = "Der Modellfrickler"
+# introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
+# introPhoto = "/picture.jpg"
+# logo = "/blist-logo.png"
+
+# [[languages.de.menu.main]]
+# name = "Blog"
+# url = "blog"
+# weight = 1
+
+# [[languages.de.menu.main]]
+# name = "About"
+# url = "page/about/"
+# weight = 2
+
+# [[languages.de.menu.main]]
+# name = "Tags"
+# url = "tags"
+# weight = 3
+
+# [[languages.de.menu.main]]
+# name = "Impressium"
+# url = "page/impressum/"
+# weight = 4
+
+# [[languages.de.menu.main]]
+# name = "Datenschutz"
+# url = "page/privacy/"
+# weight = 5
+
+[params]
+darkModeToggle = true
+enableSearch = true
+
+copyright = "Copyright © 2022 - Sebastian Fischer · All rights reserved"
+favicon = "/favicon.svg"
+ascentColor = "bg-blue-100"
+frontBundle = "blog"
+
+[build]
+writeStats = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+[markup.highlight]
+style = "dracula"
+[markup.goldmark.renderer]
+# Enable to include inline HTML
+unsafe = true
