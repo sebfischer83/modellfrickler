@@ -8,8 +8,10 @@ thumbnail: /Trumpeter-SU-101/featured.jpg
 featured: ./img/IMG_1208.jpg
 layout: photography
 ---
-dfdsdffsdfsdvd ddvdfvvf  fdfdfdd
+
+Brand: Trumpeter
+Scale: 1:35
+Title: Soviet SU-101 SPA
+Link: https://www.scalemates.com/kits/trumpeter-09505-su-101--999708
 
 {{< gallery match="img/*" sortOrder="asc" rowHeight="200" margins="5" resizeOptions="600x600 q90 Lanczos" showExif="false" previewType="blur" embedPreview="true" loadJQuery="True" thumbnailHoverEffect="enlarge" >}}
-
-dsfsdf

@@ -78,7 +78,13 @@ weight = 5
 # url = "page/privacy/"
 # weight = 5
 
+
 [params]
+custom_css = ['css/customstyles.css']
+
+[[params.customCSS]]
+href = "css/customstyles.css"
+
 darkModeToggle = true
 enableSearch = true
 
