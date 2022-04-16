@@ -4,6 +4,7 @@ title: "Trumpeter SU-101"
 date: 2022-04-10
 description: "The first model after 25 years"
 tags: ["scalemodel", "trumpeter", "soviet"]
+category: ["finished"]
 thumbnail: /Trumpeter-SU-101/featured.jpg
 featured: ./img/IMG_1208.jpg
 layout: photography

@@ -3,7 +3,8 @@ author: "Sebastian Fischer"
 title: "Chipping without airbrush"
 date: 2022-04-16
 description: "with AK Heavy Chipping Fluid"
-tags: ["scalemodel", "trumpeter", "soviet"]
+tags: ["technique", "chipping", "brush painting"]
+category: ["technique"]
 thumbnail: /Thumbs/2022_chipping.jpg
 featured: ./img/IMG_1208.jpg
 layout: photography
