@@ -57,6 +57,8 @@ layout: photography
   <div class="v4"><a href="https://www.scalemates.com/kits/trumpeter-01502-avgp-grizzly--102750" target="_blank">Scalemates</a></div>
 </div>
 
-The forgotten instructions can be found here on [Cybermodeler](https://www.cybermodeler.com/hobby/builds/tru/build_tru_1502.shtml).
+The build was not so hard except the build of the turret, here they print 2 times the same step and missed the main part.
+But the forgotten instructions can be found here on [Cybermodeler](https://www.cybermodeler.com/hobby/builds/tru/build_tru_1502.shtml).
+I tried this time to build the white UN variant. Maybe I used the wrong white (Revell Aqua Color) because the coat went far too thick. Furthermore, it's hard to correct any error on white paint, I tried ocher pigments, and it doesn't end well. Next I tried to put some leaves and this seems good but overall, I don't really like the outcome of this model, but it was a good learning, though.
 
 {{< gallery match="img/*" sortOrder="asc" rowHeight="200" margins="5" resizeOptions="600x600 q90 Lanczos" showExif="false" previewType="blur" embedPreview="true" loadJQuery="True" thumbnailHoverEffect="enlarge" >}}
