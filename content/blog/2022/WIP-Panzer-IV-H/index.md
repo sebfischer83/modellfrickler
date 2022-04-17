@@ -58,6 +58,10 @@ draft: true
   <div class="v4"><a href="https://www.scalemates.com/kits/trumpeter-09505-su-101--999708" target="_blank">Scalemates</a></div>
 </div>
 
-The first model after a long time. Lost some small (tiny) parts in the building process. The dust experiment in the front don't go well, and the rust is not as good-looking as I hoped. The track assembly really works well with a trick I read [here](https://www.reddit.com/r/modelmakers/comments/t517nd/how_to_build_such_tracks/hz22lef/?context=3) on Reddit.
+Currently, I’m working on a Panzer IV Ausf. H from Academy. The target is to integrate the tank later into a diorama. The first step was to paint it in the base color, here I use Tamiya Dark Yellow. And doing chipping like I described it before here. 
+
+This time I tried to do a really nice rusty exhaust like I saw in this video. It seems to work but after this pictures, I put varnish on and doing it wrong and brush the pigments from the pipe over the whole exhaust. 
+
+Then I use AK Interactive washable white to do a winter camouflage, and it looks really exciting, I think. 
 
 {{< gallery match="img/*" sortOrder="asc" rowHeight="200" margins="5" resizeOptions="600x600 q90 Lanczos" showExif="false" previewType="blur" embedPreview="true" loadJQuery="True" thumbnailHoverEffect="enlarge" >}}
