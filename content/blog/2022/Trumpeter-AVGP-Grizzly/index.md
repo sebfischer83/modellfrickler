@@ -1,7 +1,7 @@
 ---
 author: "Sebastian Fischer"
 title: "Canadian AVGP Grizzly"
-date: 2022-04-16
+date: 2022-04-17
 description: "White models are not my friend"
 tags: ["scalemodel", "trumpeter", "canada"]
 category: ["finished"]
