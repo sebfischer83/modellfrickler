@@ -8,6 +8,7 @@ category: ["finished"]
 thumbnail: /Trumpeter-SU-101/featured.jpg
 featured: ./img/IMG_1208.jpg
 layout: photography
+draft: true
 ---
 
 <style>
