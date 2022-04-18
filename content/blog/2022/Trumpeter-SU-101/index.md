@@ -10,43 +10,7 @@ featured: ./img/IMG_1208.jpg
 layout: photography
 ---
 
-<style>
-.container {  
-    display: grid;
-  grid-template-columns: 150px 1fr;
-  grid-auto-rows: 30px;
-  gap: 2px 2px;
-  grid-auto-flow: row dense;
-  grid-template-areas: 
-    "d1 v1"
-    "d2 v2"
-    "d3 v3"
-    "d4 v4";
-    margin-bottom:20px;
-}
-
-.d1 { 
-    grid-area: d1;     
-}
-.d2 { 
-    grid-area: d2;     
-}
-.d3 { 
-    grid-area: d3;     
-}
-.d4 { 
-    grid-area: d4;     
-}
-.d1:after, .d2:after, .d3:after, .d4:after {
-    content:  ":";
-}
-.v1 { grid-area: v1; }
-.v2 { grid-area: v2; }
-.v3 { grid-area: v3; }
-.v4 { grid-area: v4; }
-</style>
-
-<div class="container">
+<div class="containerTable">
   <div class="d1">Brand</div>
   <div class="v1">Trumpeter</div>
   <div class="d2">Scale</div>
