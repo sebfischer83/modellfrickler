@@ -6,6 +6,7 @@ theme = ['blist', 'hugo-shortcode-gallery']
 timeout = 60000
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = false
+disqusShortname = 'modellfrickler'
 
 [languages]
 [languages.en]
