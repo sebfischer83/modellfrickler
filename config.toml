@@ -82,6 +82,10 @@ weight = 5
 
 [params]
 custom_css = ['css/customstyles.css']
+# Disqus comment
+disqusShortname = "modellfrickler"
+# Disable disqus comments by set `enableDisqus = "false"`
+enableDisqus = true
 
 [[params.customCSS]]
 href = "css/customstyles.css"
