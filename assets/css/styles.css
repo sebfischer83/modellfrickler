@@ -61,3 +61,9 @@
 .v4 {
     grid-area: v4;
 }
+
+
+#idc-container-parent {
+    width: 30%;
+    margin: auto;
+}

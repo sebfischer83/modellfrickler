@@ -110,3 +110,6 @@ style = "dracula"
 [markup.goldmark.renderer]
 # Enable to include inline HTML
 unsafe = true
+
+[permalinks]
+blog = '/:year/:month/:title/'
