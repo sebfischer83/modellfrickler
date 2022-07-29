@@ -5,8 +5,8 @@ date: 2022-07-13
 description: "A big turret"
 tags: ["scalemodel", "trumpeter", "russian"]
 category: ["finished"]
-thumbnail: /Thumbs/2022_t62_a.jpg
-featured: ./img/IMG_1261.jpg
+thumbnail: /Thumbs/2022_kv2.jpg
+featured: ./img/photo-7.jpeg
 layout: photography
 ---
 

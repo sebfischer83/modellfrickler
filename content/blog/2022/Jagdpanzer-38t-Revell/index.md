@@ -5,8 +5,8 @@ date: 2022-07-12
 description: "Many pigments"
 tags: ["scalemodel", "revell", "german"]
 category: ["finished"]
-thumbnail: /Thumbs/2022_t62_a.jpg
-featured: ./img/IMG_1261.jpg
+thumbnail: /Thumbs/2022_jagd38t.jpg
+featured: ./img/IMG_1282.jpg
 layout: photography
 ---
 
